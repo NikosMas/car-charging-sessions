@@ -1,6 +1,6 @@
 # Car-Charging-Sessions
 
-## Thread-safe application which represents a store for car charging session entities. It will hold all records in memory and provide REST API. Each entity of the store represents unique charging session that can be in progress or finished.
+## Thread-safe application written in Java 11 which represents a store for car charging session entities. It will hold all records in memory and provide REST API. Each entity of the store represents unique charging session that can be in progress or finished.
 
 
 ## It is structured with 3 layers: Controller - Service - Repository.
